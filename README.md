@@ -30,6 +30,7 @@ npm install
 ```bash
 npm run test
 ```
+![Cypress Headless](https://user-images.githubusercontent.com/50798883/197317546-d0bc1f95-70f5-4d1c-8a74-67132739bf37.gif)
 
 ## Watch tests while running 👨‍💻
 It's also possible to use the cypress interface for real-time watching/analyzing purposes:
