@@ -1,4 +1,4 @@
-# E2E and API Testing with Cypress 🌳
+<p align="center"><h1>🌳 E2E and API Testing with Cypress 🌳</h1></p>
 
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
