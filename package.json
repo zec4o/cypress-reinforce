@@ -1,0 +1,13 @@
+{
+    "devDependencies": {
+        "cypress": "^10"
+    },
+    "scripts": {
+        "test": "cypress run --browser chrome --config video=false --spec **/*.cy.js",
+        "test:single": "cypress run --browser chrome --config video=false --spec /cypress/e2e/api/users.cy.js",
+        "test:watch": "cypress open --e2e --browser chrome"
+    },
+    "dependencies": {
+        "cypress-xpath": "^2"
+    }
+}
