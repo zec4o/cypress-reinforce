@@ -1,4 +1,4 @@
-<p align='center'><h1>🌳 E2E and API Testing with Cypress 🌳</h1></p>
+<h1><p align="center">🌳 E2E and API Testing with Cypress 🌳</p></h1>
 
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
